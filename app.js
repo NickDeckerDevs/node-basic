@@ -6,8 +6,8 @@ app.set('view engine', 'jade');
 app.get('/', function(request, response) {
 	response.render('index', {
 		title: 'shitstains',
-		shit: 'fuck',
-		person: 'pete'
+		shit: 'shitssss',
+		person: 'peshishsihishisste'
 	})
 });
 
